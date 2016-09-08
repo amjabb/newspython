@@ -45,9 +45,5 @@ for line in headlines:
      words.append(line.split())
 for real_words in words:
     merged_list += real_words
-<<<<<<< HEAD
 #print merged_list
-print 'kojaee'
-=======
-#print merged_list
->>>>>>> mehdi
+print "I am khepel"
