@@ -48,6 +48,6 @@ for real_words in words:
 <<<<<<< HEAD
 #print merged_list
 print 'kojaee'
-=======
-#print merged_list
->>>>>>> mehdi
+
+""" This comment made by Mohdi """
+
